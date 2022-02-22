@@ -157,3 +157,46 @@ Merge in the new-feature branch
 ```$ git merge new-feature```
 
 ```$ git branch -d new-feature```
+
+# Task Github
+## 1. Membuat Repository dan Membuat Project di Github
+Repository yang dibuat dengan nama 2_version-control-and-branch-management-git dan dengan nama project ATM Project.
+
+Link Github dibawah ini :
+
+[2_version-control-and-branch-management-git](https://github.com/fhallatu/2_version-control-and-branch-management-git.git)
+
+
+Output :
+
+<img src= Screenshots/2.PNG>
+
+## 2. Membuat Branch Development
+Link Github dibawah ini :
+
+[2_version-control-and-branch-management-git](https://github.com/fhallatu/2_version-control-and-branch-management-git.git)
+
+Output :
+
+<img src= Screenshots/4.PNG>
+
+## 3. Membuat Branch Ketiga Untuk Penambahan Fitur dan Lakukan Merge ke dalam branch Development
+Link Github dibawah ini :
+
+[2_version-control-and-branch-management-git](https://github.com/fhallatu/2_version-control-and-branch-management-git.git)
+
+Output :
+
+<img src= Screenshots/9.PNG>
+
+## 4. Membuat Branch Keempat Untuk Penambahan Fitur dan Lakukan Merge ke dalam branch Development
+Link Github dibawah ini :
+
+[2_version-control-and-branch-management-git](https://github.com/fhallatu/2_version-control-and-branch-management-git.git)
+Output :
+
+<img src= Screenshots/15.PNG>
+
+## 5. Didapatkan Hasil Insights => Network
+
+<img src= Screenshots/16.PNG>
