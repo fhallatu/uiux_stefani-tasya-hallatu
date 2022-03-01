@@ -192,7 +192,7 @@ Menggambarkan tidak hanya perjalanan, tetapi juga pilihan yang dimiliki pengguna
 
 ## Buatlah task flow dari sebuah skenario dimana user melakukan belanja online pada sebuah aplikasi atau website.
 
-[Latihan Section 5](https://www.figma.com/file/4lzenByQEckVTtgSf3MJqo/Task-Flow)
+[Latihan Section 5](https://www.figma.com/file/4lzenByQEckVTtgSf3MJqo/Task-Flow?node-id=0%3A1)
 
 Output :
 
