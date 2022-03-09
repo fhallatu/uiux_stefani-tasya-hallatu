@@ -83,5 +83,5 @@ Kita juga bisa menggunakan figma audio chat untuk berkomunikasi secara langsung
 
 ### 3.  FIgma Jam Template
 
-Figma juga menyediakan berbagai macam template brainstrom unutk berbagai keperluan
+Figma juga menyediakan berbagai macam template brainstrom unutk berbagai keperluangit 
 
