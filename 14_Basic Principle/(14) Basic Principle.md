@@ -50,7 +50,7 @@ Includes factors such as balance, color, movement, pattern, scale, shape, and vi
 
 ## 4. Makes a Product Understandable
 
-There's nothing better designed than a product that ecplains itself and so it's in a digital product
+There's nothing better designed than a product that explains itself and so it's in a digital product
 
 ## 5. Honest
 
